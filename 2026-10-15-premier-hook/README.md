@@ -19,7 +19,9 @@ pour le voir partir.
 Colle cette phrase dans Claude Code :
 
 ```text
-À chaque fois que tu as fini de me répondre, joue un son de mon ordinateur pour me prévenir. Choisis un son qui existe déjà sur ma machine, joue-le une fois pour que je l'entende, et montre-moi ce que tu as ajouté.
+À chaque fois que tu as fini de me répondre, joue un son de mon ordinateur pour
+me prévenir. Choisis un son qui existe déjà sur ma machine, joue-le une fois
+pour que je l'entende, et montre-moi ce que tu as ajouté.
 ```
 
 Puis provoque-la : pose une question simple, par exemple « Combien de fichiers y a-t-il dans ce
@@ -32,7 +34,8 @@ Le son est coupé avant la fin : utilise une commande qui attend la fin du son.
 ```
 
 ```text
-Je n'ai rien entendu à la fin de ta réponse. Cherche pourquoi et corrige le hook.
+Je n'ai rien entendu à la fin de ta réponse. Cherche pourquoi et corrige le
+hook.
 ```
 
 Pour la changer, ou savoir ce qui est en place :
@@ -51,7 +54,8 @@ Claude s'arrête quand il pense avoir fini, pas quand toi, tu considères que c'
 règle de « fini » à la place des crochets :
 
 ```text
-Avant de t'arrêter, fais vérifier par un juge que [ta règle de « fini »]. Sinon, continue.
+Avant de t'arrêter, fais vérifier par un juge que [ta règle de « fini »]. Sinon,
+continue.
 ```
 
 L'exemple du live : « que la date du jour est notée dans suivi.csv pour chaque client relancé ».
@@ -65,7 +69,8 @@ ne tourne pas en boucle : il relance Claude huit fois de suite au plus.
 Si c'est trop lent :
 
 ```text
-Remplace ce juge par un juge de type prompt, qui lit seulement ton dernier message.
+Remplace ce juge par un juge de type prompt, qui lit seulement ton dernier
+message.
 ```
 
 ## 3. Protéger : rien ne part sans toi
@@ -73,7 +78,8 @@ Remplace ce juge par un juge de type prompt, qui lit seulement ton dernier messa
 Si ton Claude Code est relié à Gmail par le connecteur :
 
 ```text
-Mets en place un hook : bloque tout envoi de mail, aucun mail ne part sans ma relecture. Fais un brouillon à la place.
+Mets en place un hook : bloque tout envoi de mail, aucun mail ne part sans ma
+relecture. Fais un brouillon à la place.
 ```
 
 Tape `/clear`, puis provoque-le avec une adresse qui n'existe pas :
@@ -94,7 +100,9 @@ Fais ce blocage en une seule ligne, sans script.
 règle de permission, si :
 
 ```text
-Ajoute dans mes réglages d'ordinateur une règle de permission qui t'interdit de lire tout fichier .env, où qu'il soit : Read(//**/.env) dans permissions.deny. Montre-moi ce que tu as ajouté.
+Ajoute dans mes réglages d'ordinateur une règle de permission qui t'interdit de
+lire tout fichier .env, où qu'il soit : Read(//**/.env) dans permissions.deny.
+Montre-moi ce que tu as ajouté.
 ```
 
 Le seul piège : un hook mal écrit ne bloque rien, il laisse tout passer. Le réflexe : demande à
@@ -103,7 +111,8 @@ Claude de le tester, puis provoque-le une fois.
 ## 4. Garder une trace : le journal
 
 ```text
-Après chaque action, ajoute une ligne avec la date, l'heure et l'action dans journal-claude.log, à la racine du projet. Teste-le une fois.
+Après chaque action, ajoute une ligne avec la date, l'heure et l'action dans
+journal-claude.log, à la racine du projet. Teste-le une fois.
 ```
 
 Si le journal reste vide :
@@ -119,7 +128,11 @@ reçoit un webhook et t'envoie un message (Telegram, Slack...), protégé par un
 cet en-tête va dans une variable d'environnement de ton ordinateur, jamais dans le prompt.
 
 ```text
-À chaque fois que tu as fini de me répondre, envoie aussi ton dernier message à mon n8n, avec un hook de type http : POST sur [l'URL de ton webhook n8n], avec l'en-tête [le nom de ton en-tête] qui prend la valeur de ma variable d'environnement [LE_NOM_DE_TA_VARIABLE]. N'affiche jamais la valeur de cette variable.
+À chaque fois que tu as fini de me répondre, envoie aussi ton dernier message à
+mon n8n, avec un hook de type http : POST sur [l'URL de ton webhook n8n], avec
+l'en-tête [le nom de ton en-tête] qui prend la valeur de ma variable
+d'environnement [LE_NOM_DE_TA_VARIABLE]. N'affiche jamais la valeur de cette
+variable.
 ```
 
 ## La carte complète

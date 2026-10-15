@@ -5,6 +5,7 @@ phrases à donner à Claude, puis les supports.
 
 Tu n'as rien à télécharger. Ouvre le dossier du live, lis la page, et copie ce dont tu as besoin :
 le bouton de copie est en haut à droite de chaque bloc.
+Tu peux aussi donner le lien de la page à Claude et lui demander de la lire.
 
 | Date | Live | Dossier |
 |---|---|---|
