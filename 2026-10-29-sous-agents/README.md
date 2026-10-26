@@ -20,9 +20,9 @@ fichier, lis-le, et copie ce dont tu as besoin.
 propale, vérifier un devis, surveiller un concurrent), et lance-le sur un cas réel. Compte
 45 minutes.
 
-Viens poster en commentaire la PREUVE de son travail : le fichier qu'il a produit, la ligne qu'il
-a ajoutée, la modification qu'il a faite. Pas son compte rendu. Et dis en une phrase ce que tu as
-ouvert pour le croire.
+Apporte à la Permanence Technique du vendredi 30 octobre, de 12h30 à 13h30, la PREUVE de son
+travail : le fichier qu'il a produit, la ligne qu'il a ajoutée, la modification qu'il a faite. Pas
+son compte rendu. Et dis en une phrase ce que tu as ouvert pour le croire.
 
 ## Ce qu'il te faut pour suivre
 
