@@ -1,9 +1,9 @@
-# Le cadeau : délègue à des sous-agents
+# Le cadeau : les sous-agents dans Claude Code
 
 **École Noésia · live du jeudi 29 octobre 2026 · Brice Gachadoat**
 
-Tu n'écris rien à la main. Tu copies une phrase, tu la colles dans Claude Code, et tu remplaces
-ce qui est entre crochets. Claude fait le reste.
+Tu n'as rien à écrire à la main : tu copies une phrase, tu la colles dans Claude Code, tu
+remplaces ce qui est entre crochets, et Claude s'occupe du reste.
 
 ## 1. Cinq réflexes, aucun fichier à écrire
 
@@ -20,14 +20,14 @@ Ne lis aucun fichier toi-même.
 ```
 
 **Une question sur ce qui a déjà été dit** : `/btw [ta question]`. Il voit toute la
-conversation, n'utilise aucun outil, et sa réponse ne reste pas dans l'historique. Inutile de
+conversation, n'utilise aucun outil, et sa réponse ne reste pas dans l'historique : inutile de
 lancer un agent pour ça.
 
 **Une tâche à côté, sans rien réexpliquer** : `/subtask [la tâche]`. Ce sous-agent emporte
 toute la conversation, travaille pendant que tu continues, et te rend le résultat. Si la
 commande n'existe pas chez toi, essaie `/fork`.
 
-**Au retour, demande la trace, pas le résumé** :
+**Au retour, demande la trace de son travail** :
 
 ```text
 Montre-moi la preuve : pour chaque fait, le fichier et la phrase exacte, ou
@@ -59,9 +59,9 @@ Montre-moi la section avant de l'enregistrer.
 
 Testée avant le live sur le dossier de Léa : sans cette section, Claude a lu les dix fichiers
 lui-même ; avec, il a confié la lecture à trois sous-agents, sans qu'on le lui demande. C'est
-une consigne : Claude la suit le plus souvent, pas à chaque fois. La ligne « regroupe » compte.
-Sans elle, il a lancé un sous-agent par fichier, ce qui coûtait plus cher et allait deux fois
-moins vite.
+une consigne, que Claude suit le plus souvent mais pas à chaque fois. La ligne « regroupe »
+compte : sans elle, il a lancé un sous-agent par fichier, ce qui coûtait plus cher et allait deux
+fois moins vite.
 
 ## 3. Chercher en éventail
 
@@ -143,10 +143,10 @@ avant de l'enregistrer.
 
 **Les deux agents de l'école**, commentés en français, dans [agents/](agents/) :
 
-- [`relecteur`](agents/relecteur.md) relit un document avant qu'il parte chez un client. Il lit,
-  il ne modifie rien, il tourne sur Sonnet.
+- [`relecteur`](agents/relecteur.md) relit un document avant qu'il parte chez un client, sans
+  rien modifier, et tourne sur Sonnet.
 - [`chercheur`](agents/chercheur.md) cherche sur le web et ne rapporte que la conclusion, avec
-  ses sources. Il ne touche pas à tes fichiers, il tourne sur Haiku, le modèle le moins cher.
+  ses sources. Il ne touche pas à tes fichiers et tourne sur Haiku, le modèle le moins cher.
 
 Pour en installer un (remplace `relecteur` par `chercheur` pour l'autre) :
 
@@ -160,8 +160,9 @@ Puis dis-moi si je dois relancer Claude Code.
 
 ## 5. Rejouer la démo du dossier de Léa
 
-Léa est consultante. Ses dix rendez-vous découverte sont dans [bac-a-sable/](bac-a-sable/),
-avec un devis à relire. Tout est inventé.
+Léa est consultante : ses dix rendez-vous découverte et un devis à relire sont dans
+[bac-a-sable/](bac-a-sable/). Tout est inventé, mais ce sont exactement les fichiers manipulés
+pendant le live : tu peux refaire la même démo chez toi et comparer tes chiffres aux nôtres.
 
 ```text
 Crée un dossier bac-a-sable-sous-agents dans mes Documents et télécharge-y,
@@ -203,18 +204,18 @@ l'envoie. » Il y a au moins trois erreurs. Ton agent les trouve-t-il toutes ?
 **Les quatre réglages d'un agent**
 
 - **Le nom** : pour l'appeler toi-même (« demande au relecteur… »).
-- **La description** : quand l'utiliser. C'est elle qui décide si Claude délègue.
-- **Les outils** : ce qu'il a le droit de faire. Le minimum.
+- **La description** : quand l'utiliser ; c'est elle qui décide si Claude délègue.
+- **Les outils** : ce qu'il a le droit de faire, réduit au minimum.
 - **Le modèle** : sans réglage, celui de ta conversation. Haiku pour le simple, Sonnet pour
   relire.
 
 **Ce que ça coûte.** Un sous-agent dépense ses propres tokens, sur le même quota que toi. Sur
 une seule lecture, ça peut coûter le même prix, parce que ta conversation ne traîne plus tout
-ce qu'il a lu. En éventail, ça monte vite. Ce que tu y gagnes : du parallèle et un regard
-neuf, pas une réponse plus intelligente.
+ce qu'il a lu. En éventail, la facture monte vite. Tu y gagnes du parallélisme et un regard
+neuf, mais pas une réponse plus intelligente.
 
 **La question à te poser au retour de chaque agent** : qu'est-ce que j'ouvre pour le croire ?
-Le fichier, la ligne, la page. Son compte rendu n'est pas une preuve.
+La réponse est le fichier, la ligne ou la page qu'il cite, jamais son seul compte rendu.
 
 ## Pour aller plus loin
 
