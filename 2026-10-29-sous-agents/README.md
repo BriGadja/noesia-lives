@@ -1,4 +1,4 @@
-# Arrête de tout faire dans une seule fenêtre : délègue à des sous-agents
+# Les sous-agents dans Claude Code
 
 **École Noésia · live du jeudi 29 octobre 2026 · Brice Gachadoat**
 

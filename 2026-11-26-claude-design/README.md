@@ -1,4 +1,4 @@
-# Ta charte une fois, tes decks pour toujours : crée ton design system avec Claude Design
+# Claude Design
 
 **École Noésia · live du jeudi 26 novembre 2026 · Brice Gachadoat**
 
