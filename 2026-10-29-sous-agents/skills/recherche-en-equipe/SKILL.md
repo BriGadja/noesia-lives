@@ -49,7 +49,8 @@ directement au chercheur concerné pour contester, et noter ce qui a tenu et ce 
 ## 3. Pendant qu'ils travaillent
 
 Ne fais pas la recherche toi-même. Réponds aux messages de l'équipe, laisse les chercheurs et le
-contradicteur se répondre, et attends que les trois aient fini.
+contradicteur se répondre, et attends que les trois aient fini. Si un chercheur rend son travail
+sans que le contradicteur l'ait reçu, transmets-le-lui toi-même et attends son avis.
 
 ## 4. Le rendu
 
