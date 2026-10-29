@@ -111,6 +111,20 @@ Les agents s'affichent sous la zone de saisie : les flèches pour en choisir un,
 ce qu'il fait. S'il lance des sous-agents à la place, redemande-lui explicitement « une équipe
 d'agents ».
 
+**Le skill de la démo** fait tout ça d'une commande, `/recherche-en-equipe [ta question]` :
+deux chercheurs sur deux angles, un contradicteur qui les conteste, et un fichier de synthèse
+avec ses sources, ce qui a été contesté et ce que personne n'a trouvé. Pour l'installer :
+
+```text
+Installe le skill « recherche-en-equipe » de l'école Noésia dans mes skills
+personnels. Télécharge le fichier avec curl (ou Invoke-WebRequest sous
+Windows), sans le réécrire :
+https://raw.githubusercontent.com/Noesia-school/noesia-lives/main/2026-10-29-sous-agents/skills/recherche-en-equipe/SKILL.md
+Puis dis-moi si je dois relancer Claude Code.
+```
+
+Il ne part que si tu tapes la commande : Claude ne le lance jamais de lui-même.
+
 ## 4. Ton agent à toi
 
 ```text

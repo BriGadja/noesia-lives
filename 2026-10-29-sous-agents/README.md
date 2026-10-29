@@ -14,6 +14,9 @@ ouvre le cadeau, copie une phrase, colle-la dans Claude Code.
 - **[Les deux agents de l'école](agents/)**, commentés en français : un
   [relecteur](agents/relecteur.md) qui lit sans rien modifier, et un
   [chercheur](agents/chercheur.md) sur le modèle le moins cher.
+- **[Le skill de la démo des équipes d'agents](skills/recherche-en-equipe/SKILL.md)** :
+  `/recherche-en-equipe` lance deux chercheurs et un contradicteur sur ta question (abonnement
+  Max conseillé).
 - **[Le dossier de Léa](bac-a-sable/)** : dix rendez-vous découverte et un devis, inventés, pour
   rejouer la démo du live chez toi.
 - **Le support de la présentation** : il arrive ici après le live.
