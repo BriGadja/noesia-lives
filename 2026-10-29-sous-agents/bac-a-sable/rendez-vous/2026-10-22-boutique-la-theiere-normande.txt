@@ -1,0 +1,130 @@
+Rendez-vous découverte — La Théière Normande — 2026-10-22 — 30 min
+Participants : Léa Moreau (consultante), Bastien Roussel (fondateur)
+
+[00:00:08] Léa : Bonjour Bastien, Léa Moreau. Merci pour ce rendez-vous.
+[00:00:16] Bastien : Bonjour Léa. Salut, ça va ? Je suis dans mon entrepôt, enfin mon garage, ha ha, entouré de cartons de thé, donc si vous entendez du carton qu'on déplace, c'est normal.
+[00:00:41] Léa : Je vous entends très bien. Alors racontez-moi la boutique.
+[00:00:50] Bastien : C'est une boutique en ligne de thés et d'infusions, des thés verts, des noirs, des blancs, des mélanges maison. On expédie en France et un peu en Belgique. Je suis seul à plein temps, avec ma compagne qui m'aide pour les emballages le week-end.
+[00:01:26] Léa : Vous avez lancé quand ?
+[00:01:32] Bastien : Il y a deux ans et demi. J'étais dans la logistique avant, à Port-Jérôme, et je me suis mis à mon compte quand ma compagne a eu notre deuxième enfant, pour être plus souple. Ce qui est ironique, parce que je n'ai jamais été aussi occupé, ha ha.
+[00:02:10] Léa : Vous êtes sur LinkedIn, d'habitude ?
+[00:02:17] Bastien : Un peu, je regarde de temps en temps, mais je ne poste jamais, je ne sais pas quoi dire, alors je laisse.
+[00:02:36] Léa : C'est le cas de beaucoup de gens, ne vous inquiétez pas.
+[00:02:46] Bastien : Je mange à quatorze heures en général, quand je mange, donc je suis toujours un peu sur les rotules à midi.
+[00:03:04] Léa : Je connais, moi aussi je saute des repas quand je suis sur un chantier.
+[00:03:17] Bastien : Ha ha, on est pareils alors.
+[00:03:24] Bastien : Mon fils fait de la guitare depuis la rentrée, j'ai le droit à trois accords en boucle toute la soirée.
+[00:03:41] Léa : Ha ha, courage. Il y en a qui font pire, croyez-moi.
+[00:03:51] Bastien : Oui, bon, au moins c'est calme quand il s'arrête.
+[00:04:00] Bastien : Attendez, je change de pièce, j'ai quelqu'un qui me parle, je reviens. Voilà. Pardon.
+[00:04:13] Léa : Ce n'est rien, j'en profite pour boire une gorgée d'eau.
+[00:04:23] Léa : Concrètement, une automatisation, c'est un petit robot qui fait la tâche répétitive à votre place, une fois que vous lui avez montré comment.
+[00:04:43] Bastien : D'accord, un robot, ha ha, j'imagine déjà ça avec des bras et tout.
+[00:04:55] Léa : Plutôt un petit programme invisible, mais l'idée est là.
+[00:05:04] Léa : Avant d'aller plus loin, y a-t-il quelque chose que vous voudriez absolument aborder aujourd'hui et que je n'ai pas encore évoqué ?
+[00:05:22] Bastien : Euh, non, je ne vois pas. Enfin, peut-être plus tard, je réfléchis à voix haute.
+[00:05:36] Léa : Faites, c'est fait pour ça.
+[00:05:42] Bastien : Là je vous entends à peine, [inaudible] je ne sais pas si c'est moi.
+[00:05:55] Léa : Je crois que c'est moi, je me rapproche du routeur. Et là, c'est mieux ?
+[00:06:08] Bastien : Oui, là c'est mieux. Vous disiez ?
+[00:06:16] Bastien : Quelqu'un frappe à la porte, un instant. Oui, deux minutes, je suis au téléphone ! Pardon, voilà, c'est reparti.
+[00:06:32] Léa : Pas de souci. Nous en étions à votre organisation de la semaine.
+[00:06:44] Léa : Je me suis fait un café, je vous le dis, je ne suis pas encore tout à fait réveillée.
+[00:07:00] Bastien : Moi c'est le troisième, donc je suis déjà en avance sur mes calculs, ha ha.
+[00:07:14] Bastien : Donc voilà, c'est un peu ça le fond du sujet.
+[00:07:23] Léa : Oui, d'accord, c'est un peu ça le fond du sujet. Je note.
+[00:07:35] Bastien : Voilà, voilà. C'est ça.
+[00:07:40] Léa : Allô ? Vous m'entendez bien ?
+[00:07:47] Bastien : Oui oui, je vous entends, enfin ça grésille un petit peu mais ça va.
+[00:08:00] Léa : D'accord, dites-moi si ça coupe, on reprendra là où on s'est arrêtés.
+[00:08:11] Léa : Qu'est-ce qui vous prend le plus d'énergie ?
+[00:08:19] Bastien : Le service client. Les gens écrivent pour savoir où est leur colis, pour un changement d'adresse, pour savoir quel thé choisir selon leur goût, et chaque mail me prend dix minutes. Je reçois peut-être trente messages par jour en période de fêtes.
+[00:08:53] Léa : Donc il y aurait trois familles : le suivi de colis, les modifications de commande, et les conseils de choix.
+[00:09:10] Bastien : Voilà. Et les conseils, c'est ce que j'aime, mais ça me prend du temps. Je recommande toujours trois ou quatre thés selon ce que la personne aime.
+[00:09:33] Léa : On pourrait préparer des réponses types pour le suivi de colis, envoyées automatiquement, et une aide à la recommandation que vous relisez avant d'envoyer.
+[00:09:53] Bastien : Ah, une aide à la recommandation, ça, j'aimerais bien. Parce que j'ai une base de dégustation avec mes notes, tous les thés, leurs arômes, leurs infusions, mais personne d'autre que moi ne sait s'en servir.
+[00:10:22] Léa : Ça ferait un excellent point de départ : l'assistant s'appuie sur vos notes, il ne parle que de vos thés.
+[00:10:39] Bastien : Ah, ça, c'est super. Excusez-moi, ma fille de quatre ans vient d'entrer dans le garage avec un pot de matcha, une seconde. Non, ma puce, pas ça ! Voilà. Pardon.
+[00:11:04] Léa : Ha ha, les enfants adorent les pots.
+[00:11:11] Bastien : Elle aime la poudre verte, elle trouve que c'est de la peinture. Ça met des taches partout.
+[00:11:26] Bastien : Hier j'ai croisé un ancien collègue au supermarché, on a papoté vingt minutes entre les yaourts, je suis rentrée en retard.
+[00:11:44] Léa : Ha ha, ce sont les meilleures conversations.
+[00:11:52] Bastien : Oui, bon, je n'avais plus de glace au congélateur de toute façon.
+[00:12:03] Léa : Je vous propose qu'on prenne chaque sujet l'un après l'autre, sans se presser.
+[00:12:15] Bastien : Oui, ça me va, j'ai tendance à partir dans tous les sens, vous me direz.
+[00:12:29] Léa : Pas de souci, on revient au fil quand il faut.
+[00:12:38] Bastien : J'ai appris à envoyer des mails avec pièce jointe en 2019, pendant le confinement, avant je demandais à quelqu'un.
+[00:12:55] Léa : Beaucoup de gens ont appris à ce moment-là, ça a été une vraie accélération.
+[00:13:08] Bastien : Oui, on a tous fait un stage accéléré, ha ha.
+[00:13:17] Léa : Est-ce que quelqu'un d'autre chez vous s'occupe un peu du numérique, du site, des réseaux ?
+[00:13:32] Bastien : Mon neveu, il avait fait le site il y a quatre ou cinq ans, mais depuis il est parti à Lyon pour son travail, donc on ne touche à rien.
+[00:13:57] Léa : D'accord, c'est fréquent.
+[00:14:01] Léa : Je prends des notes pendant qu'on parle, ne vous inquiétez pas si vous m'entendez taper.
+[00:14:15] Bastien : Ah oui oui, pas de souci, moi je fais pareil, j'ai mon petit carnet à côté, voilà.
+[00:14:30] Léa : Je note votre numéro de mobile au cas où la ligne coupe, c'est bien le zéro six, quarante-deux, etc. ?
+[00:14:47] Bastien : Oui, c'est ça, je vous le redonnerai par mail pour être sûre.
+[00:14:58] Léa : Parfait, ça marche.
+[00:15:03] Léa : Vous recevez à peu près combien de mails par jour ?
+[00:15:13] Bastien : Euh, quarante, cinquante, des fois plus le lundi. Dont la moitié qui ne me concernent pas vraiment.
+[00:15:28] Léa : Le lundi, c'est toujours le pire.
+[00:15:35] Léa : Pour me présenter rapidement : je suis indépendante, je travaille depuis Rouen, je mets en place des automatisations avec de l'IA pour des petites structures. Du concret, pas de grand discours.
+[00:16:01] Bastien : D'accord, oui, c'est ce qu'on m'avait dit.
+[00:16:08] Léa : Donc, je vous propose de commencer par le suivi de colis, puis l'aide à la recommandation, étape par étape.
+[00:16:25] Bastien : Le problème, c'est que je n'ai jamais le temps de m'asseoir pour configurer quoi que ce soit, entre les expéditions et les enfants, j'ai peur que ça reste un projet dans un tiroir.
+[00:16:52] Léa : C'est pour cela que je fais le gros du travail. Vous m'envoyez vos notes de dégustation et vos modèles de réponses, deux heures de votre côté, et je prépare le reste. Je vous demande ensuite une heure pour tester. Et je vous donne un calendrier précis, pour que ça n'attende pas dans un tiroir.
+[00:17:34] Bastien : Deux heures et une heure pour tester, ça, je peux. Si c'est le soir, quand les enfants dorment.
+[00:17:50] Léa : Parfait, on peut caler la session de test à vingt-et-une heures si c'est mieux pour vous.
+[00:18:05] Léa : Excusez-moi, je n'ai pas bien compris la dernière partie, il y a eu un blanc de deux secondes.
+[00:18:20] Bastien : Ah, je disais que ça dépend des semaines, certaines sont calmes, d'autres on ne sait plus où donner de la tête.
+[00:18:38] Léa : D'accord, ça varie beaucoup, noté.
+[00:18:44] Léa : On avance bien, je regarde l'heure, on est à peu près à mi-parcours.
+[00:18:56] Bastien : Déjà ? Je n'ai pas vu passer. Ça va vite quand on parle.
+[00:19:08] Léa : C'est bon signe.
+[00:19:13] Bastien : Vous disiez ? Je n'ai pas entendu la fin de votre phrase.
+[00:19:24] Léa : Je disais que je vous enverrai un petit résumé après l'appel, rien de compliqué.
+[00:19:37] Bastien : Ah d'accord, très bien, ça coupait un peu, euh, voilà, maintenant c'est bon.
+[00:19:49] Bastien : Excusez-moi, je reviens, j'ai laissé la porte du bureau ouverte et le courant d'air m'a fait voler tous mes papiers.
+[00:20:06] Léa : Aïe, les feuilles volantes, ça me rappelle des choses.
+[00:20:15] Bastien : Voilà, c'est rangé, enfin c'est ramassé en tout cas.
+[00:20:24] Bastien : Quand même, c'est bien de prendre un moment pour réfléchir à l'organisation, d'habitude on court sans jamais se poser.
+[00:20:41] Léa : C'est exactement l'idée du rendez-vous découverte : on se pose une demi-heure.
+[00:20:52] Bastien : Oui, et ça fait du bien finalement.
+[00:21:00] Bastien : Donc je disais, euh, qu'est-ce que je disais, j'ai perdu le fil.
+[00:21:11] Léa : Vous parliez de la difficulté à tout suivre en même temps.
+[00:21:21] Bastien : Ah oui, voilà, exactement, merci. C'est ça.
+[00:21:29] Bastien : Excusez-moi, il y a un camion de livraison juste devant, ça fait un bruit pas possible, une seconde.
+[00:21:45] Léa : Prenez votre élan, je suis là.
+[00:21:52] Bastien : Voilà, il est reparti. Ils se garent n'importe où, c'est pénible.
+[00:22:02] Bastien : Et ça marcherait avec ma boutique en ligne telle qu'elle est ?
+[00:22:13] Léa : Oui, la plupart des boutiques en ligne ont une liste de commandes exportable ou une connexion simple. Je regarde la vôtre avant de vous promettre quoi que ce soit.
+[00:22:37] Bastien : D'accord. Je vous donnerai un accès en lecture, je ne veux pas que vous changiez des choses sans le vouloir.
+[00:22:55] Léa : Un accès en lecture, c'est largement suffisant au début.
+[00:23:04] Bastien : Et pour les fêtes, on aura le temps de le faire avant novembre ?
+[00:23:16] Léa : Si on démarre début novembre, le suivi de colis sera prêt pour les fêtes. L'aide à la recommandation viendra après, en décembre.
+[00:23:35] Bastien : Ça tombe bien, parce que décembre c'est la folie, les coffrets, les cadeaux.
+[00:23:47] Léa : Voilà, d'où l'intérêt de s'y prendre à temps.
+[00:23:56] Bastien : Pardon, je suis un peu à la bourre, j'ai déposé le petit à l'école ce matin et il avait oublié son cartable dans la voiture de sa grand-mère, voilà.
+[00:24:20] Léa : Ha ha, ça me rappelle quelque chose. Chez moi c'est le manteau, jamais le bon jour.
+[00:24:34] Bastien : Oui, exactement, ça finit toujours par un aller-retour.
+[00:24:42] Bastien : Oui parce que [inaudible] depuis au moins trois semaines, enfin, vous voyez ce que je veux dire.
+[00:24:57] Léa : Je n'ai pas bien saisi le milieu de la phrase, vous pouvez la répéter ?
+[00:25:11] Bastien : Je disais juste que ça fait des semaines que c'est comme ça et que personne ne s'en occupe vraiment.
+[00:25:27] Léa : Vous avez eu de la chance avec les vacances cette année ?
+[00:25:38] Bastien : On est partis une semaine du côté de l'île de Ré fin août, il a plu presque tous les jours, mais bon, on a mangé des huîtres.
+[00:26:01] Léa : C'est l'essentiel, ha ha.
+[00:26:06] Léa : Je vais vous demander de me redonner le nom exact de votre structure, pour la fiche que je vais préparer.
+[00:26:24] Bastien : Euh oui, alors c'est comme sur le site, vous l'avez, normalement.
+[00:26:34] Léa : Oui, je l'ai, c'était juste pour vérifier l'orthographe.
+[00:26:42] Bastien : Le plus pénible, c'est de ne jamais finir une tâche, on est dérangé toutes les cinq minutes.
+[00:26:57] Léa : Oui, c'est ce que beaucoup me disent. On commence trois choses, on n'en termine aucune.
+[00:27:11] Bastien : Exactement, et le soir je me demande ce que j'ai fait de ma journée.
+[00:27:24] Bastien : On me parle beaucoup de l'intelligence artificielle à la radio, mais honnêtement je ne sais pas trop ce que ça veut dire pour moi.
+[00:27:44] Léa : C'est exactement pour ça que j'appelle ça un rendez-vous découverte : on regarde votre quotidien, pas la radio.
+[00:28:00] Bastien : Ah, ça me rassure, ha ha.
+[00:28:07] Bastien : Vous savez, moi, les nouveautés, j'aime bien, mais à condition qu'on m'explique clairement. Sinon je décroche.
+[00:28:21] Léa : C'est tout à fait normal. Et dans mon métier, expliquer clairement, c'est la moitié du travail.
+[00:28:35] Bastien : Alors on va bien s'entendre, ha ha.
+[00:28:43] Léa : Je vous envoie le calendrier et la liste de ce dont j'ai besoin, vous me dites si ça vous convient.
+[00:29:00] Bastien : Parfait. Je regarde ça ce soir. Merci Léa, c'était agréable, je ne pensais pas que ce serait si concret.
+[00:29:16] Léa : Merci Bastien, et bonne fin de journée entre les cartons et la poudre verte !
+[00:29:30] Bastien : Ha ha, merci, au revoir, à bientôt.

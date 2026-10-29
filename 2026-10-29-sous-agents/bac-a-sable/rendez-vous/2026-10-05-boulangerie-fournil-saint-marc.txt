@@ -1,0 +1,131 @@
+Rendez-vous découverte — Boulangerie Fournil Saint-Marc — 2026-10-05 — 30 min
+Participants : Léa Moreau (consultante), Odile Ferrand (gérante)
+
+[00:00:08] Léa : Bonjour Odile, c'est Léa Moreau, merci d'avoir accepté ce rendez-vous. Vous m'entendez bien ?
+[00:00:20] Odile : Bonjour, oui oui, je vous entends. Excusez-moi, j'ai le four qui sonne derrière, je ferme la porte du labo, voilà.
+[00:00:38] Léa : Pas de souci. Alors on a une demi-heure, l'idée c'est surtout que vous me racontiez votre quotidien et moi je vous dis si l'IA peut y changer quelque chose, ou pas.
+[00:01:04] Odile : D'accord. Euh, je vous préviens, je ne suis pas très à l'aise avec tout ça, c'est plutôt mon mari qui fait un peu l'informatique d'habitude.
+[00:01:25] Léa : Très bien, ça tombe bien, je ne parle pas en jargon. Vous êtes combien à la boutique ?
+[00:01:41] Odile : Alors on est sept. Deux boulangers de nuit, trois vendeuses, une apprentie, et moi qui fais un peu tout, les commandes, les fournisseurs, la caisse quand il manque quelqu'un.
+[00:02:05] Léa : Et en dehors du pain lui-même, qu'est-ce qui vous prend le plus d'énergie ?
+[00:02:18] Odile : Les commandes spéciales. Les gâteaux d'anniversaire, les buffets pour les entreprises, les plateaux pour les mariages. Tout arrive par téléphone, par message sur la page de la boutique, par mail, par SMS, et moi je note sur un cahier.
+[00:02:50] Odile : Vous avez vu le match, hier soir ?
+[00:02:58] Léa : Non, je m'endors avant les prolongations, je regarde le résumé le lendemain.
+[00:03:09] Odile : Moi pareil, vingt-et-une heures trente et je suis par terre, voilà.
+[00:03:20] Odile : Mon mari dit toujours que je m'inquiète pour rien, mais quand même, hein, il faut bien que quelqu'un s'inquiète.
+[00:03:37] Léa : Ha ha, il faut un peu de tout dans un couple.
+[00:03:47] Odile : Voilà, c'est ça.
+[00:03:52] Odile : Je suis désolée, je vous parle avec la bouche pleine, je grignote un petit quelque chose, il est onze heures passées.
+[00:04:10] Léa : Faites, faites, ça ne me dérange pas du tout.
+[00:04:19] Odile : Vous disiez ? Je n'ai pas entendu la fin de votre phrase.
+[00:04:30] Léa : Je disais que je vous enverrai un petit résumé après l'appel, rien de compliqué.
+[00:04:43] Odile : Ah d'accord, très bien, ça coupait un peu, euh, voilà, maintenant c'est bon.
+[00:04:55] Odile : Je m'excuse si je digresse, mais ce matin j'ai eu un souci avec la voisine, sa voiture bloquait mon accès, une demi-heure à attendre, j'étais furieuse.
+[00:05:17] Léa : Ah, ces histoires de stationnement, ça peut gâcher une matinée.
+[00:05:27] Odile : Voilà, donc je suis un peu à cran, pardonnez-moi.
+[00:05:36] Odile : On me parle beaucoup de l'intelligence artificielle à la radio, mais honnêtement je ne sais pas trop ce que ça veut dire pour moi.
+[00:05:57] Léa : C'est exactement pour ça que j'appelle ça un rendez-vous découverte : on regarde votre quotidien, pas la radio.
+[00:06:13] Odile : Ah, ça me rassure, ha ha.
+[00:06:19] Léa : Concrètement, une automatisation, c'est un petit robot qui fait la tâche répétitive à votre place, une fois que vous lui avez montré comment.
+[00:06:39] Odile : D'accord, un robot, ha ha, j'imagine déjà ça avec des bras et tout.
+[00:06:51] Léa : Plutôt un petit programme invisible, mais l'idée est là.
+[00:07:00] Odile : Je vous avoue que j'étais un peu réticente à faire ce rendez-vous, je me demandais ce qu'on allait me vendre.
+[00:07:18] Léa : C'est normal. Je ne vous vends rien pendant cet appel, je cherche à comprendre.
+[00:07:31] Odile : Oui, et c'est ce que je ressens, du coup ça va.
+[00:07:41] Léa : Je vous réponds dès que je suis en mesure, mais là, si vous voulez, on continue encore un peu.
+[00:07:58] Odile : Oui, oui, continuez, moi j'ai jusqu'à la demie, après j'ai quelqu'un qui arrive.
+[00:08:10] Léa : Parfait, on a largement de quoi faire.
+[00:08:18] Léa : On entend un petit écho, je baisse mon micro, c'est mieux ?
+[00:08:29] Odile : Oui, beaucoup mieux, avant c'était comme si vous parliez dans un tunnel.
+[00:08:40] Léa : Un cahier, d'accord. Et ça se perd parfois ?
+[00:08:49] Odile : Ça m'est arrivé une fois, un gâteau de communion, la dame est arrivée le samedi et je n'avais rien noté. Ah, une catastrophe. On a fait un fraisier en urgence à sept heures du matin, voilà.
+[00:09:19] Léa : Ha là là. Donc un premier besoin, ce serait que chaque demande, quel que soit le canal, atterrisse dans un seul endroit.
+[00:09:38] Odile : Oui, ça, ça serait bien. Et que ça me rappelle la veille ce qu'il faut préparer pour le lendemain.
+[00:09:54] Léa : Ça, c'est faisable. Un petit tableau partagé, un robot qui range les messages dedans, et qui vous envoie un récapitulatif le soir.
+[00:10:13] Odile : Ah oui, avec un tableau ça me parle plus. Et pour les fournisseurs de farine, ça pourrait aider ou pas ?
+[00:10:32] Léa : On pourrait préparer le bon de commande à partir de ce que vous avez vendu, mais je commencerais par les commandes spéciales, un seul sujet à la fois.
+[00:10:55] Odile : Tout augmente, même la baguette, ha ha, je dis ça parce que le sac de farine, la dernière fois, j'ai failli tomber de ma chaise.
+[00:11:16] Léa : Ha ha, oui, je sais, c'est un autre sujet, on se concentre sur ce que vous pouvez gagner côté organisation.
+[00:11:34] Odile : Oui oui, pardon, je digresse. C'est que le matin à quatre heures, on a le temps de penser à tout ça, ha ha.
+[00:11:53] Odile : Mon fils fait de la guitare depuis la rentrée, j'ai le droit à trois accords en boucle toute la soirée.
+[00:12:11] Léa : Ha ha, courage. Il y en a qui font pire, croyez-moi.
+[00:12:21] Odile : Oui, bon, au moins c'est calme quand il s'arrête.
+[00:12:30] Léa : Vous recevez à peu près combien de mails par jour ?
+[00:12:41] Odile : Euh, quarante, cinquante, des fois plus le lundi. Dont la moitié qui ne me concernent pas vraiment.
+[00:12:56] Léa : Le lundi, c'est toujours le pire.
+[00:13:03] Léa : Je vous propose qu'on prenne chaque sujet l'un après l'autre, sans se presser.
+[00:13:15] Odile : Oui, ça me va, j'ai tendance à partir dans tous les sens, vous me direz.
+[00:13:29] Léa : Pas de souci, on revient au fil quand il faut.
+[00:13:39] Odile : J'ai une personne en arrêt depuis lundi, une angine, du coup tout le monde court un peu partout cette semaine.
+[00:13:56] Léa : Ah, c'est la saison. Moi j'ai le nez qui coule depuis dimanche, je croise les doigts.
+[00:14:10] Odile : Oui, tout le monde est malade en ce moment, c'est la rentrée qui fait ça.
+[00:14:24] Odile : Excusez-moi, je vous ai coupée, vous alliez dire quelque chose.
+[00:14:34] Léa : Non non, aucun souci, je vous écoutais. Continuez.
+[00:14:42] Odile : Ah, d'accord, alors, euh, je reprends. Voilà.
+[00:14:50] Odile : Donc voilà, c'est un peu ça le fond du sujet.
+[00:15:00] Léa : Oui, d'accord, c'est un peu ça le fond du sujet. Je note.
+[00:15:11] Odile : Voilà, voilà. C'est ça.
+[00:15:16] Léa : Alors voilà comment je vois les choses : on met en place le tableau des commandes, le robot qui range les messages, et le récapitulatif du soir.
+[00:15:39] Odile : Franchement, je n'ai pas le temps de former mes vendeuses, elles sont déjà débordées entre sept heures et dix heures du matin.
+[00:15:58] Léa : Je comprends. Justement, elles n'auraient rien à apprendre : elles continuent à répondre au téléphone comme aujourd'hui, c'est le robot qui range derrière. Pour vous, je prévois une prise en main de deux heures, un après-midi calme, et une fiche d'une page pour l'équipe.
+[00:16:34] Odile : Deux heures, d'accord. L'après-midi c'est vrai que c'est calme après quatorze heures.
+[00:16:45] Léa : Et je reste joignable la première semaine si quelque chose coince.
+[00:16:56] Léa : Un dernier point de logistique avant qu'on avance : vous préférez qu'on se rappelle par téléphone ou qu'on échange par mail ?
+[00:17:15] Odile : Plutôt par mail, parce que le téléphone, je ne l'entends pas toujours quand je suis occupée.
+[00:17:29] Léa : Parfait, mail alors.
+[00:17:33] Odile : Pardon, je suis un peu à la bourre, j'ai déposé le petit à l'école ce matin et il avait oublié son cartable dans la voiture de sa grand-mère, voilà.
+[00:17:58] Léa : Ha ha, ça me rappelle quelque chose. Chez moi c'est le manteau, jamais le bon jour.
+[00:18:12] Odile : Oui, exactement, ça finit toujours par un aller-retour.
+[00:18:20] Léa : Je crois que ma connexion fait des siennes, si je disparais je vous rappelle tout de suite.
+[00:18:36] Odile : D'accord, pas de problème. Moi aussi j'ai eu des coupures hier soir, ça doit être l'opérateur.
+[00:18:50] Léa : Probablement. Bon, là ça tient, on continue.
+[00:18:58] Odile : Et puis il y a un autre truc, hein, je préfère vous le dire tout de suite.
+[00:19:13] Léa : Dites-moi.
+[00:19:16] Odile : Il faut que j'en parle à mon mari Gérard, c'est lui mon associé dans l'affaire, on ne décide rien l'un sans l'autre.
+[00:19:35] Léa : Bien sûr, c'est normal. Je peux vous préparer un récapitulatif d'une page qu'il lira ce soir, et on peut faire un point de quinze minutes à trois, jeudi prochain, s'il est disponible.
+[00:20:01] Odile : Oui, ce serait bien, il est plus méfiant que moi, il va poser plein de questions.
+[00:20:16] Léa : Parfait, des questions c'est très bien, je préfère.
+[00:20:24] Odile : Vous savez, moi, les nouveautés, j'aime bien, mais à condition qu'on m'explique clairement. Sinon je décroche.
+[00:20:38] Léa : C'est tout à fait normal. Et dans mon métier, expliquer clairement, c'est la moitié du travail.
+[00:20:53] Odile : Alors on va bien s'entendre, ha ha.
+[00:21:00] Odile : Et vous, vous êtes où là, vous travaillez d'où ?
+[00:21:10] Léa : De chez moi, à Mont-Saint-Aignan, je suis à la maison aujourd'hui, ça évite les bouchons.
+[00:21:24] Odile : Ah oui, avec les travaux sur les quais, ça devient impossible de traverser Rouen, c'est incroyable.
+[00:21:38] Odile : Donc je disais, euh, qu'est-ce que je disais, j'ai perdu le fil.
+[00:21:49] Léa : Vous parliez de la difficulté à tout suivre en même temps.
+[00:22:00] Odile : Ah oui, voilà, exactement, merci. C'est ça.
+[00:22:08] Léa : Pardon, j'ai eu un bruit sur la ligne, un grésillement, vous pouvez répéter la dernière phrase ?
+[00:22:23] Odile : Je disais que je suis plutôt tranquille d'habitude, mais là ces derniers temps c'est plus compliqué, voilà.
+[00:22:38] Léa : D'accord, je comprends.
+[00:22:42] Léa : Pour me présenter rapidement : je suis indépendante, je travaille depuis Rouen, je mets en place des automatisations avec de l'IA pour des petites structures. Du concret, pas de grand discours.
+[00:23:08] Odile : D'accord, oui, c'est ce qu'on m'avait dit.
+[00:23:16] Odile : Je vous disais tout à l'heure que ma fille passe son brevet cette année, donc je suis un peu ailleurs depuis septembre.
+[00:23:35] Léa : Ah, c'est une grosse année. Elle est stressée ?
+[00:23:44] Odile : Pas du tout, c'est moi qui suis stressée, elle, elle dort. Voilà.
+[00:23:55] Odile : Et pour la suite, ça se passerait comment concrètement ?
+[00:24:05] Léa : Si vous et Gérard êtes d'accord, on commence par une semaine d'observation : je regarde comment arrivent les commandes, je construis le tableau, on teste avec trois commandes réelles.
+[00:24:29] Odile : D'accord. Et si ça ne marche pas, on revient au cahier ?
+[00:24:41] Léa : Exactement, le cahier ne disparaît pas tant que vous n'êtes pas sûre.
+[00:24:52] Odile : Ça me rassure. Le cahier, c'est un peu ma couverture de survie, ha ha.
+[00:25:05] Léa : Je comprends tout à fait.
+[00:25:11] Léa : Vous avez regardé le site que je vous avais envoyé ?
+[00:25:22] Odile : Oui, un peu, j'ai survolé la page, c'était clair. Il y avait des exemples, enfin je crois, j'ai lu en diagonale.
+[00:25:40] Léa : C'est déjà très bien.
+[00:25:45] Odile : Je mange à quatorze heures en général, quand je mange, donc je suis toujours un peu sur les rotules à midi.
+[00:26:03] Léa : Je connais, moi aussi je saute des repas quand je suis sur un chantier.
+[00:26:16] Odile : Ha ha, on est pareils alors.
+[00:26:23] Odile : Vous avez des enfants, vous ?
+[00:26:30] Léa : Un garçon de neuf ans, il est en CM1, le mercredi après-midi on a le foot, voilà.
+[00:26:45] Odile : Ah le foot, nous c'est le judo, tous les mercredis, je fais le chauffeur.
+[00:26:58] Odile : C'est une connaissance qui m'a parlé de vous, elle avait vu votre nom sur un groupe de commerçants de la métropole.
+[00:27:16] Léa : Ah oui, le groupe sur les réseaux, je vois lequel. Ça fait plaisir que le bouche-à-oreille fonctionne.
+[00:27:31] Odile : Oui, elle m'a dit que vous étiez sérieuse et pas trop compliquée, alors voilà.
+[00:27:44] Odile : Là je me suis perdue, de quoi on parlait déjà ? Ah oui, du tri des messages. Voilà.
+[00:28:00] Léa : Oui, c'est ça. On y revient dans un instant.
+[00:28:09] Odile : Excusez-moi, j'ai mon chien qui aboie, il a vu le facteur, il fait ça tous les jours, voilà.
+[00:28:25] Léa : Ha ha, pas de souci, j'ai un chat qui passe devant l'écran de temps en temps.
+[00:28:39] Odile : Ah les animaux, on ne les change pas.
+[00:28:48] Léa : Bon, je vous laisse retourner à vos pains. Je vous envoie le récapitulatif demain matin, ça vous va ?
+[00:29:04] Odile : Oui, oui, parfait. Et je vous redis après en avoir parlé à Gérard, ce week-end sûrement.
+[00:29:19] Léa : Très bien. Merci beaucoup Odile, bonne fin de matinée.
+[00:29:28] Odile : Merci à vous, au revoir, bonne journée. Voilà, au revoir.

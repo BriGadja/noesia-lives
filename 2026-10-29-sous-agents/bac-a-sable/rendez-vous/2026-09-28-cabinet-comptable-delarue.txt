@@ -1,0 +1,127 @@
+Rendez-vous découverte — Cabinet Delarue Comptabilité — 2026-09-28 — 30 min
+Participants : Léa Moreau (consultante), Sylvain Delarue (expert-comptable)
+
+[00:00:08] Léa : Bonjour Sylvain, Léa Moreau. Merci de me consacrer une demi-heure un lundi matin, je sais que ce n'est pas le meilleur moment.
+[00:00:26] Sylvain : Bonjour Léa. Oh, le lundi, c'est un jour comme un autre, enfin non, c'est surtout le jour où tout le monde m'appelle pour des factures perdues, ha ha.
+[00:00:50] Léa : Ha ha, je m'en doute. Vous êtes combien au cabinet ?
+[00:01:01] Sylvain : Neuf. Quatre collaborateurs comptables, deux assistantes, une juriste à temps partiel, une stagiaire et moi. On suit environ cent quarante clients, surtout des artisans, des commerçants, quelques professions libérales.
+[00:01:25] Léa : Et qu'est-ce qui vous a donné envie de me rencontrer ?
+[00:01:35] Sylvain : Euh, un confrère m'a parlé de vos automatisations, et puis j'ai lu un article sur les relances de pièces manquantes. Parce que c'est ça, honnêtement, notre cauchemar : courir après les clients pour les justificatifs.
+[00:02:04] Léa : Je vous réponds dès que je suis en mesure, mais là, si vous voulez, on continue encore un peu.
+[00:02:21] Sylvain : Oui, oui, continuez, moi j'ai jusqu'à la demie, après j'ai quelqu'un qui arrive.
+[00:02:33] Léa : Parfait, on a largement de quoi faire.
+[00:02:40] Léa : Avant d'aller plus loin, y a-t-il quelque chose que vous voudriez absolument aborder aujourd'hui et que je n'ai pas encore évoqué ?
+[00:02:59] Sylvain : Euh, non, je ne vois pas. Enfin, peut-être plus tard, je réfléchis à voix haute.
+[00:03:13] Léa : Faites, c'est fait pour ça.
+[00:03:19] Sylvain : Quelqu'un frappe à la porte, un instant. Oui, deux minutes, je suis au téléphone ! Pardon, voilà, c'est reparti.
+[00:03:36] Léa : Pas de souci. Nous en étions à votre organisation de la semaine.
+[00:03:47] Sylvain : C'est une connaissance qui m'a parlé de vous, elle avait vu votre nom sur un groupe de commerçants de la métropole.
+[00:04:05] Léa : Ah oui, le groupe sur les réseaux, je vois lequel. Ça fait plaisir que le bouche-à-oreille fonctionne.
+[00:04:20] Sylvain : Oui, elle m'a dit que vous étiez sérieuse et pas trop compliquée, alors voilà.
+[00:04:33] Sylvain : Vous avez des enfants, vous ?
+[00:04:40] Léa : Un garçon de neuf ans, il est en CM1, le mercredi après-midi on a le foot, voilà.
+[00:04:55] Sylvain : Ah le foot, nous c'est le judo, tous les mercredis, je fais le chauffeur.
+[00:05:08] Léa : Je vous propose qu'on prenne chaque sujet l'un après l'autre, sans se presser.
+[00:05:20] Sylvain : Oui, ça me va, j'ai tendance à partir dans tous les sens, vous me direz.
+[00:05:34] Léa : Pas de souci, on revient au fil quand il faut.
+[00:05:44] Sylvain : J'ai une personne en arrêt depuis lundi, une angine, du coup tout le monde court un peu partout cette semaine.
+[00:06:01] Léa : Ah, c'est la saison. Moi j'ai le nez qui coule depuis dimanche, je croise les doigts.
+[00:06:16] Sylvain : Oui, tout le monde est malade en ce moment, c'est la rentrée qui fait ça.
+[00:06:29] Léa : Un petit message pour la transcription : si vous voyez ce texte, c'est que l'enregistrement tourne bien.
+[00:06:44] Sylvain : Ah oui, vous enregistrez ? D'accord, je ne l'avais pas retenu.
+[00:06:55] Léa : Seulement pour mes notes, je ne le diffuse à personne.
+[00:07:05] Léa : Je ne sais pas si vous avez le même ressenti, mais octobre me fait toujours l'effet d'un mois de transition.
+[00:07:22] Sylvain : Ah oui, les feuilles, la nuit qui tombe tôt, je n'aime pas trop, moi je suis plutôt été.
+[00:07:38] Léa : Moi aussi, je mets déjà le chauffage, c'est mauvais signe.
+[00:07:48] Léa : Vous avez eu de la chance avec les vacances cette année ?
+[00:07:59] Sylvain : On est partis une semaine du côté de l'île de Ré fin août, il a plu presque tous les jours, mais bon, on a mangé des huîtres.
+[00:08:22] Léa : C'est l'essentiel, ha ha.
+[00:08:27] Léa : Racontez-moi cette course aux justificatifs, concrètement, comment ça se passe chez vous ?
+[00:08:39] Sylvain : Alors chaque trimestre, les assistantes envoient des mails type, puis elles relancent par téléphone, puis encore par mail, et elles tiennent un tableau Excel pour savoir qui a envoyé quoi. Ça peut durer trois semaines.
+[00:09:08] Léa : Et combien de clients répondent du premier coup ?
+[00:09:17] Sylvain : Pff, un sur trois peut-être. Les autres, il faut y revenir, voilà. Il y en a un, un plombier, je ne dis pas son nom, il m'envoie ses factures en photo floue prise dans sa camionnette.
+[00:09:47] Léa : Ha ha, ça me parle. Donc on pourrait automatiser la relance : un message qui part tout seul, qui s'adapte au client, et qui s'arrête dès que la pièce arrive.
+[00:10:12] Sylvain : Oui, c'est exactement ce que j'avais en tête. Et si en plus ça pouvait trier les pièces reçues, dire cette facture va avec tel compte, ce serait magnifique.
+[00:10:35] Léa : Le tri, on peut le proposer en suggestion, que l'assistante valide d'un clic. Je ne recommande pas de laisser l'IA décider seule en comptabilité.
+[00:10:56] Sylvain : Non non, évidemment, je suis d'accord, jamais seule. On est responsables, nous.
+[00:11:07] Léa : Tout à fait.
+[00:11:12] Sylvain : Excusez-moi, ma stagiaire vient d'entrer avec un dossier, une seconde. Oui, posez-le là, merci Inès. Voilà. Pardon.
+[00:11:27] Léa : Pour me présenter rapidement : je suis indépendante, je travaille depuis Rouen, je mets en place des automatisations avec de l'IA pour des petites structures. Du concret, pas de grand discours.
+[00:11:53] Sylvain : D'accord, oui, c'est ce qu'on m'avait dit.
+[00:12:00] Sylvain : Quand même, c'est bien de prendre un moment pour réfléchir à l'organisation, d'habitude on court sans jamais se poser.
+[00:12:17] Léa : C'est exactement l'idée du rendez-vous découverte : on se pose une demi-heure.
+[00:12:28] Sylvain : Oui, et ça fait du bien finalement.
+[00:12:36] Sylvain : Je mange à quatorze heures en général, quand je mange, donc je suis toujours un peu sur les rotules à midi.
+[00:12:54] Léa : Je connais, moi aussi je saute des repas quand je suis sur un chantier.
+[00:13:07] Sylvain : Ha ha, on est pareils alors.
+[00:13:14] Sylvain : Vous avez vu le match, hier soir ?
+[00:13:22] Léa : Non, je m'endors avant les prolongations, je regarde le résumé le lendemain.
+[00:13:33] Sylvain : Moi pareil, vingt-et-une heures trente et je suis par terre, voilà.
+[00:13:44] Léa : Je prends des notes pendant qu'on parle, ne vous inquiétez pas si vous m'entendez taper.
+[00:13:58] Sylvain : Ah oui oui, pas de souci, moi je fais pareil, j'ai mon petit carnet à côté, voilà.
+[00:14:13] Sylvain : Vous disiez ? Je n'ai pas entendu la fin de votre phrase.
+[00:14:24] Léa : Je disais que je vous enverrai un petit résumé après l'appel, rien de compliqué.
+[00:14:37] Sylvain : Ah d'accord, très bien, ça coupait un peu, euh, voilà, maintenant c'est bon.
+[00:14:49] Léa : Donc l'idée serait de commencer par la relance des pièces manquantes, sur un petit groupe de clients, pour voir ce que ça donne.
+[00:15:09] Sylvain : Ce qui me gêne, c'est que ce sont des données comptables de mes clients, où elles vont, qui les voit, est-ce que ça sort d'Europe, enfin, on a le RGPD et le secret professionnel.
+[00:15:37] Léa : Vous avez raison de poser la question en premier. Je travaille avec des outils hébergés en Europe, les données ne servent pas à entraîner les modèles, et pour le pilote on peut même n'envoyer que des noms de pièces et des dates, sans aucun montant ni numéro de compte. Et je vous fournis un document pour votre registre RGPD.
+[00:16:24] Sylvain : D'accord, ça c'est important. Sans montants, je peux déjà mieux l'envisager.
+[00:16:34] Léa : Et vous gardez la main : si vous préférez, on commence avec dix clients qui ont donné leur accord par écrit.
+[00:16:53] Sylvain : Je suis du genre à tout garder sur papier, il paraît que c'est une manie. Mon père faisait pareil.
+[00:17:09] Léa : Il n'y a pas de honte, le papier a ses avantages. Ça ne plante pas.
+[00:17:23] Sylvain : Voilà, exactement, ça ne plante pas, ha ha.
+[00:17:31] Sylvain : Attendez, je change de pièce, j'ai quelqu'un qui me parle, je reviens. Voilà. Pardon.
+[00:17:44] Léa : Ce n'est rien, j'en profite pour boire une gorgée d'eau.
+[00:17:54] Sylvain : Là, il y a un monsieur qui vient d'entrer, une seconde, je lui fais signe de patienter. Voilà. Je reviens.
+[00:18:11] Léa : Pas de souci, je ne bouge pas.
+[00:18:19] Sylvain : Et l'autre point, c'est technique, je vous le dis franchement.
+[00:18:29] Léa : Allez-y.
+[00:18:32] Sylvain : Mon vrai souci, c'est que notre logiciel de comptabilité est un vieux truc fermé, je ne suis pas certain que ça se branche sur quoi que ce soit.
+[00:18:55] Léa : Beaucoup de logiciels de ce type ne se branchent pas directement, mais ils savent presque tous exporter un fichier ou envoyer des mails. Mon robot travaille à côté : il lit la boîte mail des pièces et met à jour le tableau de suivi, sans toucher au logiciel de compta. On n'a pas besoin de brancher quoi que ce soit dedans.
+[00:19:44] Sylvain : Ah, donc il ne touche pas au dossier du client dans le logiciel ?
+[00:19:57] Léa : Non, il reste dans la boîte mail et dans le tableau de suivi, la compta ne bouge pas.
+[00:20:12] Sylvain : Excusez-moi, j'ai mon chien qui aboie, il a vu le facteur, il fait ça tous les jours, voilà.
+[00:20:28] Léa : Ha ha, pas de souci, j'ai un chat qui passe devant l'écran de temps en temps.
+[00:20:43] Sylvain : Ah les animaux, on ne les change pas.
+[00:20:51] Léa : On avance bien, je regarde l'heure, on est à peu près à mi-parcours.
+[00:21:03] Sylvain : Déjà ? Je n'ai pas vu passer. Ça va vite quand on parle.
+[00:21:15] Léa : C'est bon signe.
+[00:21:20] Léa : Un dernier point de logistique avant qu'on avance : vous préférez qu'on se rappelle par téléphone ou qu'on échange par mail ?
+[00:21:39] Sylvain : Plutôt par mail, parce que le téléphone, je ne l'entends pas toujours quand je suis occupée.
+[00:21:53] Léa : Parfait, mail alors.
+[00:21:58] Léa : Je me suis fait un café, je vous le dis, je ne suis pas encore tout à fait réveillée.
+[00:22:14] Sylvain : Moi c'est le troisième, donc je suis déjà en avance sur mes calculs, ha ha.
+[00:22:28] Léa : Je vais vous demander de me redonner le nom exact de votre structure, pour la fiche que je vais préparer.
+[00:22:45] Sylvain : Euh oui, alors c'est comme sur le site, vous l'avez, normalement.
+[00:22:56] Léa : Oui, je l'ai, c'était juste pour vérifier l'orthographe.
+[00:23:04] Sylvain : On me parle beaucoup de l'intelligence artificielle à la radio, mais honnêtement je ne sais pas trop ce que ça veut dire pour moi.
+[00:23:25] Léa : C'est exactement pour ça que j'appelle ça un rendez-vous découverte : on regarde votre quotidien, pas la radio.
+[00:23:41] Sylvain : Ah, ça me rassure, ha ha.
+[00:23:48] Sylvain : Et si ça se passe bien, on pourrait l'étendre aux déclarations de TVA, par exemple ?
+[00:24:02] Léa : Probablement, mais d'abord on prouve que la relance marche. Un sujet à la fois, comme je dis toujours.
+[00:24:18] Sylvain : Oui, c'est sage. Je vais en parler à mes assistantes, elles sont les premières concernées.
+[00:24:32] Léa : Je peux aussi échanger avec elles dix minutes, pour qu'elles me racontent leur tableau Excel.
+[00:24:45] Sylvain : Avec plaisir, Josiane, la plus ancienne, a plein de choses à dire. Elle connaît tous les clients par cœur.
+[00:25:02] Léa : Parfait, c'est la personne que je veux entendre.
+[00:25:10] Sylvain : Hier j'ai croisé un ancien collègue au supermarché, on a papoté vingt minutes entre les yaourts, je suis rentrée en retard.
+[00:25:28] Léa : Ha ha, ce sont les meilleures conversations.
+[00:25:36] Sylvain : Oui, bon, je n'avais plus de glace au congélateur de toute façon.
+[00:25:47] Sylvain : Pardon, je suis un peu à la bourre, j'ai déposé le petit à l'école ce matin et il avait oublié son cartable dans la voiture de sa grand-mère, voilà.
+[00:26:11] Léa : Ha ha, ça me rappelle quelque chose. Chez moi c'est le manteau, jamais le bon jour.
+[00:26:26] Sylvain : Oui, exactement, ça finit toujours par un aller-retour.
+[00:26:34] Léa : Je note votre numéro de mobile au cas où la ligne coupe, c'est bien le zéro six, quarante-deux, etc. ?
+[00:26:52] Sylvain : Oui, c'est ça, je vous le redonnerai par mail pour être sûre.
+[00:27:03] Léa : Parfait, ça marche.
+[00:27:08] Léa : Vous recevez à peu près combien de mails par jour ?
+[00:27:18] Sylvain : Euh, quarante, cinquante, des fois plus le lundi. Dont la moitié qui ne me concernent pas vraiment.
+[00:27:33] Léa : Le lundi, c'est toujours le pire.
+[00:27:40] Sylvain : Vous voulez que je vous raconte un peu l'historique de l'entreprise ?
+[00:27:51] Léa : Volontiers, ça m'aide à comprendre où vous en êtes.
+[00:28:01] Sylvain : Alors, ça fait des années que je suis là, j'ai repris, euh, enfin j'ai tout appris sur le tas, voilà.
+[00:28:18] Sylvain : Vous savez, moi, les nouveautés, j'aime bien, mais à condition qu'on m'explique clairement. Sinon je décroche.
+[00:28:32] Léa : C'est tout à fait normal. Et dans mon métier, expliquer clairement, c'est la moitié du travail.
+[00:28:47] Sylvain : Alors on va bien s'entendre, ha ha.
+[00:28:54] Léa : Je vous envoie un compte rendu aujourd'hui, avec le périmètre du pilote et le document pour le registre RGPD.
+[00:29:11] Sylvain : Très bien. Je regarde ça cette semaine. Merci Léa, c'était plus clair que ce que j'imaginais.
+[00:29:25] Léa : Merci à vous Sylvain. Bonne semaine.
+[00:29:32] Sylvain : Bonne semaine, au revoir.

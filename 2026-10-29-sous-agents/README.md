@@ -2,16 +2,20 @@
 
 **École Noésia · live du jeudi 29 octobre 2026 · Brice Gachadoat**
 
-Tout ce qui sert au live est rangé dans ce dossier. Tu n'as rien à télécharger : ouvre le
-fichier, lis-le, et copie ce dont tu as besoin.
+Tout ce qui sert au live est rangé dans ce dossier. Pour commencer, tu n'as rien à télécharger :
+ouvre le cadeau, copie une phrase, colle-la dans Claude Code.
 
 ## Dans ce dossier
 
-- **L'exercice** : juste en dessous.
-- **Le cadeau** : deux fichiers d'agent prêts à coller, commentés en français (un relecteur en
-  lecture seule, un chercheur sur le modèle le moins cher), et une fiche d'une page : quand
-  déléguer et quand surtout pas, les quatre réglages qui comptent, et la question à te poser au
-  retour de chaque agent. Il arrive ici au plus tard le jour du live.
+- **[Le cadeau](prompts.md)** : les phrases du soir prêtes à coller (les cinq réflexes, la
+  section de ton `CLAUDE.md` qui fait déléguer Claude sans que tu le demandes, la recherche en
+  éventail, l'équipe d'agents, la création de ton agent), et la fiche : quand déléguer et quand surtout pas, les
+  quatre réglages qui comptent, et la question à te poser au retour de chaque agent.
+- **[Les deux agents de l'école](agents/)**, commentés en français : un
+  [relecteur](agents/relecteur.md) qui lit sans rien modifier, et un
+  [chercheur](agents/chercheur.md) sur le modèle le moins cher.
+- **[Le dossier de Léa](bac-a-sable/)** : dix rendez-vous découverte et un devis, inventés, pour
+  rejouer la démo du live chez toi.
 - **Le support de la présentation** : il arrive ici après le live.
 
 ## L'exercice
@@ -24,11 +28,14 @@ Apporte à la Permanence Technique du vendredi 30 octobre, de 12h30 à 13h30, la
 travail : le fichier qu'il a produit, la ligne qu'il a ajoutée, la modification qu'il a faite. Pas
 son compte rendu. Et dis en une phrase ce que tu as ouvert pour le croire.
 
+**Bonus** : le chiffre de `/context` de ta conversation, sur la même tâche faite sans ton agent
+puis avec.
+
 ## Ce qu'il te faut pour suivre
 
-Claude Code installé et un abonnement Pro ou Max. Accessibilité 3/5 : on écrit un fichier texte
-avec quatre réglages, aucune ligne de code, mais il faut être à l'aise avec l'idée de laisser
-quelque chose tourner sans le surveiller.
+Claude Code installé et un abonnement Pro ou Max. Sur Pro, pour `/deep-research`, active d'abord
+« Dynamic workflows » dans `/config`. Accessibilité 3/5 : aucune ligne de code, mais il faut être à
+l'aise avec l'idée de laisser quelque chose tourner sans le surveiller.
 
 ## Les liens utiles
 
